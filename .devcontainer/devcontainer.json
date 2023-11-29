@@ -1,0 +1,9 @@
+{
+  //Nombre de esta configuración
+  "name":"Habilidades para codespaces",
+  "customizations":{
+    "vscode":{
+      "extensions":["GitHub.copilot"]
+    }
+  }
+}
